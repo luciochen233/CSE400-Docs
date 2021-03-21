@@ -20,7 +20,7 @@ module.exports = {
                         items: [
                             {
                                 text: 'Repo Page',
-                                link: 'https://github.com/luciochen233/CSE400_Robotics',
+                                link: 'https://github.com/luciochen233/CSE400-Docs',
                             },
                         ],
                     },
