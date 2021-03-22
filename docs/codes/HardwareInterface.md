@@ -13,7 +13,7 @@ https://fjp.at/projects/diffbot/ros-packages/base/
 http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29
 
 ## header file
-```c++
+```cpp
 #ifndef ROBOT_HW_INTERFACE_H_
 #define ROBOT_HW_INTERFACE_H_
 
@@ -65,7 +65,7 @@ public:
 
 ## cpp file
 
-``` c++
+``` cpp
 #include "robota/robot_hw_interface.h"
 
 Robot::Robot(ros::NodeHandle& nodehandle)
