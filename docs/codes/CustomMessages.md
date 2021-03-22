@@ -4,7 +4,7 @@
 http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv
 :::
 
-```c++
+```cpp
 # Command message
 float32 left_vel
 float32 right_vel

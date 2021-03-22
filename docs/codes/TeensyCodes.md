@@ -2,17 +2,13 @@
 
 The Teensy must run a loop that always updates the stepper motor AccelStepper objects.
 It also must always run the ROS spin method so it can subscribe to Topics.
-
 The sketch below uses the millisecond timer to create a scheduler.
-
 The important thing is that the scheduler always allows the main loop to run as fast as possible.
 The main loop must keep running so the motors can move and the subscriber can subscribe.
-
 I wrote the scheduler with a Case statement.  
 You could use If statements if you want.
 I was pretty conservative about timing.
 Ultimately the robot is "tuned" for optimum performance by adjusting the publishing frequencies. 
-
 The scheduler publishes the custom messages over special Topics back to the RPi, so ROS knows the state of the Robot.  
 
 ```Arduino

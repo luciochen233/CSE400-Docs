@@ -2,15 +2,19 @@
 ::: tip
 There are multiple helpful links for this part.
 :::
-http://wiki.ros.org/hardware_interface
-http://wiki.ros.org/ros_control/Tutorials/Create%20your%20own%20hardware%20interface
-https://medium.com/@slaterobotics/how-to-implement-ros-control-on-a-custom-robot-748b52751f2e
-https://fjp.at/posts/ros/ros-control/
-https://sir.upc.edu/projects/rostutorials/10-gazebo_control_tutorial/index.html
-https://fjp.at/projects/diffbot/ros-packages/base/
+
+::: details
+[http://wiki.ros.org/hardware_interface](http://wiki.ros.org/hardware_interface)
+[http://wiki.ros.org/ros_control/Tutorials/Create%20your%20own%20hardware%20interface](http://wiki.ros.org/ros_control/Tutorials/Create%20your%20own%20hardware%20interface)
+[https://medium.com/@slaterobotics/how-to-implement-ros-control-on-a-custom-robot-748b52751f2e](https://medium.com/@slaterobotics/how-to-implement-ros-control-on-a-custom-robot-748b52751f2e)
+[https://fjp.at/posts/ros/ros-control/](https://fjp.at/posts/ros/ros-control/)
+[https://sir.upc.edu/projects/rostutorials/10-gazebo_control_tutorial/index.html](https://sir.upc.edu/projects/rostutorials/10-gazebo_control_tutorial/index.html)
+[https://fjp.at/projects/diffbot/ros-packages/base/](https://fjp.at/projects/diffbot/ros-packages/base/)
+
+:::
 
 ## Building a c++ node
-http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29
+[http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29)
 
 ## header file
 ```cpp

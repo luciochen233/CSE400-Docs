@@ -2,7 +2,9 @@
 module.exports = {
     title: 'CSE400 Robotics',
     description: 'This is a TA-Made Robotics guide/notebook for CSE400 @ Syracuse University',
-
+    markdown: {
+        lineNumbers: true
+      },
     themeConfig: {
         repo: 'luciochen233/CSE400-Docs',
         docsDir: 'docs/',
