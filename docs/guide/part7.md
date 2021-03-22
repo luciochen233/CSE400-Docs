@@ -1,4 +1,4 @@
-# 七: Make the robot to move
+# 七: Makes all the Joint Movable
 
 ::: warning TODO
 TODO

@@ -1,4 +1,4 @@
-# 四: Control the motor on our Robot
+# 四: Control the Motor on our Robot
 
 ::: warning TODO
 TODO
