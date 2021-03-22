@@ -1,4 +1,4 @@
-# Step 1: Install Xubuntu 20.04 Desktop On Raspberry Pi 4b
+# 一: Install Xubuntu 20.04 Desktop On Raspberry Pi 4b
 ## Summary
 This is a small guide on how to install Xubuntu 20.04 Desktop on Raspberry Pi 4b. There might be many similar guides out there, but this one is just for me (or my friends).
 
@@ -26,8 +26,27 @@ Please install this easy-to-use flasher. After that's done, you will see a very 
 
 After that's done, you are all set with step one.
 
+::: tip 
+Alternatively, you can feel free to use the official [Raspberry pi imager](https://www.raspberrypi.org/software/). They have a very simple [40-second](https://www.youtube.com/watch?v=J024soVgEeM) guide on how to use it.
+:::
  
 
 ## Step 2: setup our system and connect to Wi-Fi
 
- 
+Since our Lab's ethernet port require signning in using your Netid and password, it is often hard to using CLI only. Thus, we are going to connect to our IoT wireless network since that is easier to connect to.
+
+::: warning TODO
+TODO
+:::
+
+## Step 3: Install Xubuntu Desktop
+
+::: warning TODO
+TODO
+:::
+
+## Step4: remove the XFCE Screensaver
+
+::: warning TODO
+TODO
+:::

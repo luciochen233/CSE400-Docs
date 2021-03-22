@@ -39,7 +39,12 @@ module.exports = {
                 collapsable: false,
                 children: [
                     "guide/intro",
-                    "guide/part2"
+                    "guide/part2",
+                    "guide/part3",
+                    "guide/part4",
+                    "guide/part5",
+                    "guide/part6",
+                    "guide/part7"
                 ]
             }
               
