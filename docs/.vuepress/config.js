@@ -4,7 +4,7 @@ module.exports = {
     description: 'This is a TA-Made Robotics guide/notebook for CSE400 @ Syracuse University',
 
     themeConfig: {
-        repo: 'luciochen233/CSE400_Robotics',
+        repo: 'luciochen233/CSE400-Docs',
         docsDir: 'docs/',
         nav: [
             {
@@ -25,7 +25,7 @@ module.exports = {
                         ],
                     },
                     {
-                        text: 'About',
+                        text: "Lucio's blog",
                         items: [
                             { text: 'Main Page', link: 'https://luciochen.com' }
                         ],
@@ -45,6 +45,18 @@ module.exports = {
                     "guide/part5",
                     "guide/part6",
                     "guide/part7"
+                ]
+            },
+            {
+                title: 'Codes',
+                collapsable: false,
+                children: [
+                    "codes/pythonSimulation",
+                    "codes/HardwareInterface",
+                    "codes/CustomMessages",
+                    "codes/TeensyCodes",
+                    "codes/pidController",
+                    "codes/LaunchFile"
                 ]
             }
               
