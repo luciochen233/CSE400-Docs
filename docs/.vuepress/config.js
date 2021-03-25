@@ -38,7 +38,7 @@ module.exports = {
         sidebar: [
             {
                 title: 'Getting started',
-                collapsable: false,
+                collapsable: true,
                 children: [
                     "guide/intro",
                     "guide/part2",
@@ -47,6 +47,15 @@ module.exports = {
                     "guide/part5",
                     "guide/part6",
                     "guide/part7"
+                ]
+            },
+            {
+                title: 'Programming Laboratory 6',
+                collapsable: false,
+                children: [
+                    "guide/part8",
+                    "guide/part9",
+                    "guide/part10"
                 ]
             },
             {
