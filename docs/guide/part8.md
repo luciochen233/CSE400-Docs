@@ -22,7 +22,7 @@ Additionally, there is a special type in ROS: Header. The Header contains a time
 
 In our case, the header file is already given; since we are all using the same robot. 
 
-[--- Link to the header file ---](/codes/CustomMessages)
+[--- Link to the header file ---](/codes/CustomMessages.html)
 
 We are going to create different header files that should be in the msg directory of your project. (Probably named beginner_tutorials)
 
